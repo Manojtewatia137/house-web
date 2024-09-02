@@ -1,0 +1,89 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+
+body {
+    overflow-x: hidden !important;
+
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+/* logo */
+
+.logo{
+    width: 100px;
+    margin-left: 100px;
+}
+
+.nav-item{
+    margin-left: 30px;
+   font-weight: bold;
+}
+
+.carousel-item {
+    /* width: 100%; */
+    height: 100%;
+}
+
+.img12{
+     height: 100%; 
+}
+
+.carousel-inner{
+height: 550px;
+}
+
+
+.labtop{
+    background-image: url(https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSk78ABQB5N6Ixsf4uikDnylAnUAA9-_ACgc_yKwPErw94n-GRYxM4BbiXkRMYaXiCnwFI4Hpm4S6fTeApZedNECeyp6QtG_ZsqU8tZIe4pkLKC76e0FfugNg&usqp);
+    background-repeat: no-repeat;
+    background-position:center;
+    padding: 30px;
+    height: 500px;
+    /* align-items: center; */
+}
+
+.video{
+  margin-left: 435px;
+  border-radius: 10px; 
+  padding: 5px;  
+}
+
+
+/* Vision & Mission */
+
+
+
+.container-fluid2{
+    background-image:url(./img/image2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
+
+}
+
+.back_ground{
+    background-color:rgba(0, 0,0,0.7);
+    
+}
+
+.vis{
+    color: white;
+}
+
+.mis{
+    color: orange;
+}
+
+.SATYAM{
+    color: white;
+}
